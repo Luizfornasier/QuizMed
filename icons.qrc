@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Icons/doutor4.png</file>
+    <file>Icons/carta_1.png</file>
+    <file>Icons/carta_2.png</file>
+    <file>Icons/carta_3.png</file>
+    <file>Icons/carta_4.png</file>
+    <file>Icons/paciente.png</file>
+    <file>Icons/doutor1.png</file>
+    <file>Icons/doutor2.png</file>
+    <file>Icons/doutor3.png</file>
+    <file>Icons/paciente1.png</file>
+    <file>Icons/paciente2.png</file>
+    <file>Icons/paciente3.png</file>
+    <file>Icons/estetoscopio.png</file>
+    <file>Icons/estetoscopio2.png</file>
+    <file>Icons/Pergunta e Respostas.jpg</file>
+  </qresource>
+</RCC>
